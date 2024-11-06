@@ -1,0 +1,621 @@
+fileFormatVersion: 2
+guid: 83681ba6d37d01a47a9455baea2c9a3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: temmie_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 275
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92fde8426ac0a640a3774117eb454e2
+      internalID: -781729341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 275
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee2c2e330bb61644b14fb1e7304882b
+      internalID: 1964487433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 224
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9c76f8d1b8852418173d39d9b823ed
+      internalID: 1508970584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 224
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abae259b3b74348468ab4d424b45c441
+      internalID: -84767621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 176
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29b83d2ebadbcb4e86b0cc39915c808
+      internalID: 823768402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 176
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3386f9c6fa4649b530b60c5dc995d
+      internalID: 534818261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 176
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d09182953f36849be24e84948ff29a
+      internalID: -267924476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 176
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4dea08f64606a4988cc266605b6ac3
+      internalID: 941222673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_38
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 127
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f012155ebe7fa0b4480396c87c19f1a5
+      internalID: 935972955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 79
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bdeda25af41b94da1b487301357529
+      internalID: -268322571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_46
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 79
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5decd3c1d7a0f5549903d461401eaf3d
+      internalID: 52944101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_47
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 79
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e6d25733b8204691de0d859517726
+      internalID: -470037328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_48
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 79
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57b4503740b7f14ea32725c3cd5b7f2
+      internalID: -1118209951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 79
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914463469df138948a5b9c851883c618
+      internalID: -793998219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_50
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d6f7c473138034ab29d2c13a791ac3
+      internalID: 1299225717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 13
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0d50a1679699346b773a53bbd4d322
+      internalID: 1846794789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5defe81751d9de447848c8e6c78765c9
+      internalID: 1293897387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_75
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee49bda1ef60c6479d708c4e1a33ef0
+      internalID: 1319044718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temmie_90
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 24
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a57459a3332504baa0e440085fe6b9
+      internalID: 2059766131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      temmie_46: 52944101
+      temmie_74: -1226333995
+      temmie_63: -1032466110
+      temmie_71: 190139750
+      temmie_19: -1519215694
+      temmie_56: 1230972401
+      temmie_48: -1118209951
+      temmie_12: 2085645064
+      temmie_13: 1508970584
+      temmie_47: -470037328
+      temmie_21: 534818261
+      temmie_20: 823768402
+      temmie_52: -1327008012
+      temmie_96: 653112227
+      temmie_0: 660798445
+      temmie_1: 883337244
+      temmie_41: -1922663990
+      temmie_94: 455197807
+      temmie_33: 2051417589
+      temmie_43: -548360319
+      temmie_57: -1295946088
+      temmie_26: 1793321563
+      temmie_70: -2043844071
+      temmie_60: 1384952090
+      temmie_67: -1135209100
+      temmie_49: -793998219
+      temmie_76: -284664984
+      temmie_73: -1679457554
+      temmie_83: -1313788022
+      temmie_59: 296216095
+      temmie_92: -1698158477
+      temmie_35: 1113644291
+      temmie_2: -1814533521
+      temmie_85: 261074200
+      temmie_50: 1299225717
+      temmie_4: -781729341
+      temmie_38: 935972955
+      temmie_5: 1964487433
+      temmie_81: -7046701
+      temmie_10: -1707952072
+      temmie_89: 41052107
+      temmie_22: -267924476
+      temmie_14: -84767621
+      temmie_84: -325403769
+      temmie_97: 1339359551
+      temmie_98: 1688620685
+      temmie_82: -311059228
+      temmie_75: 1319044718
+      temmie_28: 1910365262
+      temmie_36: -62290000
+      temmie_6: 1184463048
+      temmie_55: 1846794789
+      temmie_24: -179961193
+      temmie_51: -434559279
+      temmie_61: 778875746
+      temmie_88: -1612662208
+      temmie_11: -682159044
+      temmie_93: -473510808
+      temmie_66: -1948628916
+      temmie_62: -23537917
+      temmie_79: 739493951
+      temmie_17: 807960950
+      temmie_77: 1224964317
+      temmie_90: 2059766131
+      temmie_53: -1453911589
+      temmie_7: 1448339301
+      temmie_65: 1920528978
+      temmie_39: -852657505
+      temmie_64: 1063727308
+      temmie_37: 156261865
+      temmie_54: 96285949
+      temmie_16: -1399229093
+      temmie_15: 772130251
+      temmie_72: -1715886971
+      temmie_9: -1871095706
+      temmie_58: -395115015
+      temmie_34: 1360554322
+      temmie_42: -1516366701
+      temmie_31: 1713186034
+      temmie_30: 943088872
+      temmie_45: -268322571
+      temmie_95: -514724454
+      temmie_87: 1119968328
+      temmie_18: 1001512443
+      temmie_91: -664489745
+      temmie_78: 1080832798
+      temmie_27: -727018428
+      temmie_29: 628532196
+      temmie_40: 901427510
+      temmie_44: -159290997
+      temmie_3: -2093602427
+      temmie_23: 941222673
+      temmie_8: 74074461
+      temmie_25: 891874406
+      temmie_68: 1723038936
+      temmie_86: 1553118069
+      temmie_69: 1293897387
+      temmie_32: -1898722705
+      temmie_80: 1182851788
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
